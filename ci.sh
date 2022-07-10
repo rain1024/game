@@ -7,4 +7,4 @@ rm -rf html
 git status
 git add -A
 git commit -m 'update'
-# git push origin main
+git push origin main
