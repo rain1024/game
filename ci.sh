@@ -1,3 +1,5 @@
+cp "/Users/anhv/My project/html/" html 
+mv html/* .
 rm -rf Build
 rm -rf html
 rm -rf StreamingAssets
