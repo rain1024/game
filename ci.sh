@@ -1,4 +1,4 @@
-rm -f Build
+rm -rf Build
 rm -rf html
 rm -rf StreammingAssets
 rm -rf TemplateData
