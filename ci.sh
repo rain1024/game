@@ -1,7 +1,7 @@
 rm -rf Build
 rm -rf StreamingAssets
 rm -rf TemplateData
-cp "/Users/anhv/My project/html/" html 
+cp -r "/Users/anhv/My project/html/" html 
 mv html/* .
 rm -rf html
 git status
